@@ -1,5 +1,3 @@
-Here is a more readable version of the README for IAM302:
-
 # IAM302: Preset FlareVM Environment
 
 This document provides instructions and details for the pre-installed FlareVM environment for the IAM302 course.
